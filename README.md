@@ -15,7 +15,7 @@
 
 简历主页已通过 **GitHub Pages** 发布，访问地址（仓库创建后填入）：
 
-> https://<你的GitHub用户名>.github.io/resume/
+> https://tt141512.github.io/resume/
 
 ## 如何使用
 
